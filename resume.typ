@@ -72,13 +72,15 @@
   May 2023 – Feb 2024]
   - Designed and launched SBOM, a microservice for automated software bill of materials analysis, detecting security vulnerabilities and legal risks in client application code.
   - Built scalable APIs using Rust, Tokio, and gRPC (Tonic), integrated with PostgreSQL via Sea-ORM and sqlx, reducing vulnerability scan times by 30%.
+  - Developed asynchronous Rust parsers for APK, POM, Flutter, and React Native apps to perform security checks on dependency versions and known vulnerabilities.
   - Implemented tracing for distributed logging, improving debugging efficiency across services.
   - Collaborated on CI/CD pipelines with GitHub Actions, ensuring zero-downtime deployments.
-\
+
 
 + #text(fill: company-color)[Lifepal Technologies —  Senior Software Developer (Remote)
   May 2022 – Mar 2023]
   - Developed a lead management system in a microservice architecture using Rust and gRPC, handling 10,000+ daily leads with real-time state transitions for TSO teams.
+  - Implemented backend job processing using Rust and RabbitMQ for reliable asynchronous task execution.
   - Led migration from SQLX to Sea-ORM, reducing database query latency by 25% and simplifying ORM interactions.
   - Designed WhatsApp API integration to parse chats and auto-generate leads, increasing lead ingestion by 15%.
   - Restructured PostgreSQL based constant management using LISTEN/NOTIFY, enhancing configuration reliability.
