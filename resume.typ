@@ -44,10 +44,23 @@
 #line(length: 100%)
 
 == *Summary*
-- Results-driven Senior Software Developer with over 9 years of experience designing and scaling microservices and web applications.
-- Expert in Rust-based systems, with proficiency in Actix-web, gRPC, and Sea-ORM, complemented by strong Python and DevOps skills.
+- Results-driven Senior Software Developer with 9+ years of experience building and scaling microservices and web applications.
+- Proactive backend engineer with a focus on asynchronous systems, message queues, and infrastructure reliability.
+- Thrives in distributed, remote-first teams with timezone-flexible, async collaboration and minimal supervision.
+- Skilled in system design, high-performance Rust development, and resilient backend architecture.
 - Proven track record in leading complex DB migrations, optimizing performance, and contributing to open-source projects like Askama and Helix.
-- Adept at driving end-to-end development in fast-paced, remote environments
+- Passionate about solving deep technical challenges and delivering robust, production-grade software.
+
+// Results-driven Senior Software Developer with over 9 years of experience designing and scaling microservices and web applications.
+// Proactive backend engineer with a strong focus on asynchronous systems and infrastructure.
+// Thrives in asynchronous, distributed teams with minimal supervision; experienced in timezone-flexible collaboration and remote-first development workflows.
+// Adept at system design, high-performance Rust development, and backend architecture.
+// Passionate about solving deep technical challenges and delivering production-grade software.
+
+// - Results-driven Senior Software Developer with over 9 years of experience designing and scaling microservices and web applications.
+// - Expert in Rust-based systems, with proficiency in Actix-web, gRPC, and Sea-ORM, complemented by strong Python and DevOps skills.
+// - Proven track record in leading complex DB migrations, optimizing performance, and contributing to open-source projects like Askama and Helix.
+// - Adept at driving end-to-end development in fast-paced, remote environments
 
 #text(fill: contribution-color )[
 == #text(fill: heading-color)[*Open-Source Contributions*]
@@ -60,6 +73,7 @@
 - #link("https://github.com/helix-editor/helix/pull/4426")[Added update in Helix (Rust) for modified files.]
 ]
 
+#h(34pt)
 == *Technical Skill's*
 - #text(size: 11pt, weight: 700)[_Languages & Frameworks_]: #text(fill: skills-color)[Rust (Actix-web, Tonic, Serde, Tokio, Tracing, Sqlx, Sea-ORM), Python (Django), JavaScript, Go]
 - #text(size: 11pt, weight: 700)[_Databases & Messaging_]: #text(fill: skills-color)[PostgreSQL, MySQL, Redis, Apache Pulsar]
@@ -67,6 +81,7 @@
 - #text(size: 11pt, weight: 700)[_Other_]: #text(fill: skills-color)[gRPC, REST APIs, GCP Task Queue]
 
 
+#h(34pt)
 == *Professional Experience*
 + #text(fill: company-color)[Appknox —  Senior Rust Developer (Remote)
   May 2023 – Feb 2024]
