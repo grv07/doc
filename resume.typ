@@ -84,7 +84,7 @@
 #h(34pt)
 == *Professional Experience*
 + #text(fill: company-color)[Appknox —  Senior Rust Developer (Remote)
-  May 2023 – Feb 2024]
+  April 2023]
   - Designed and launched SBOM, a microservice for automated software bill of materials analysis, detecting security vulnerabilities and legal risks in client application code.
   - Built scalable APIs using Rust, Tokio, and gRPC (Tonic), integrated with PostgreSQL via Sea-ORM and sqlx, reducing vulnerability scan times by 30%.
   - Developed asynchronous Rust parsers for APK, POM, Flutter, and React Native apps to perform security checks on dependency versions and known vulnerabilities.
@@ -92,8 +92,8 @@
   - Collaborated on CI/CD pipelines with GitHub Actions, ensuring zero-downtime deployments.
 
 
-+ #text(fill: company-color)[Lifepal Technologies —  Senior Software Developer (Remote)
-  May 2022 – Mar 2023]
++ #text(fill: company-color)[deel. (Lifepal Technologies) —  Senior Software Developer (Remote)
+  June 2022 – Mar 2023]
   - Developed a lead management system in a microservice architecture using Rust and gRPC, handling 10,000+ daily leads with real-time state transitions for TSO teams.
   - Implemented backend job processing using Rust and RabbitMQ for reliable asynchronous task execution.
   - Led migration from SQLX to Sea-ORM, reducing database query latency by 25% and simplifying ORM interactions.
@@ -103,7 +103,7 @@
 
 
 + #text(fill: company-color)[Google ODC at GlobalLogic —  Full-Stack Developer
-  Dec 2018 – May 2022]
+  Nov 2017 – April 2022]
   - Spearheaded migration of Blogger.com’s UI and backend to modern JavaScript and internal Java frameworks, serving millions of monthly users with 99.9% uptime.
   - Built Tam on Tap, a distributed shift scheduler with Google Hangouts bot integration, reducing task assignment delays by 40% for support teams.
   - Wrote extensive unit/UI tests and conducted 100+ code reviews, ensuring robust releases.
@@ -111,7 +111,7 @@
   - Awarded Individual Excellence Award (2018-2019) for multi-project impact across Rust, Go, and JavaScript stacks.
 
 + #text(fill: company-color)[Hindustan Times —  Full-Stack Developer
-  Jan 2016 – Dec 2018]
+  Jan 2017 – Oct 2017]
   - Enhanced HTCampus, a college search platform, is scaling to 30,000+ listings and online applications, driving 20% revenue growth via lead generation.
 
 + #text(fill: company-color)[TriHedron —  Full-Stack Developer
