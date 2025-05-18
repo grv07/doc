@@ -44,12 +44,14 @@
 #line(length: 100%)
 
 == *Summary*
-- Results-driven Senior Software Developer with 9+ years of experience building and scaling microservices and web applications.
-- Proactive backend engineer with a focus on asynchronous systems, message queues, and infrastructure reliability.
-- Thrives in distributed, remote-first teams with timezone-flexible, async collaboration and minimal supervision.
-- Skilled in system design, high-performance Rust development, and resilient backend architecture.
-- Proven track record in leading complex DB migrations, optimizing performance, and contributing to open-source projects like Askama and Helix.
-- Passionate about solving deep technical challenges and delivering robust, production-grade software.
+  Backend Developer with 9+ years of experience in Rust, Python, Actix-Web, Dinstributed System and PostgreSQL.
+  Proven track record of optimizing asynchronous systems and leading high-impact projects.
+// - Results-driven Senior Software Developer with 9+ years of experience building and scaling microservices and web applications.
+// - Proactive backend engineer with a focus on asynchronous systems, message queues, and infrastructure reliability.
+// - Thrives in distributed, remote-first teams with timezone-flexible, async collaboration and minimal supervision.
+// - Skilled in system design, high-performance Rust development, and resilient backend architecture.
+// - Proven track record in leading complex DB migrations, optimizing performance, and contributing to open-source projects like Askama and Helix.
+// - Passionate about solving deep technical challenges and delivering robust, production-grade software.
 
 // Results-driven Senior Software Developer with over 9 years of experience designing and scaling microservices and web applications.
 // Proactive backend engineer with a strong focus on asynchronous systems and infrastructure.
