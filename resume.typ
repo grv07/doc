@@ -44,8 +44,14 @@
 #line(length: 100%)
 
 == *Summary*
-  Backend Developer with 9+ years of experience in Rust, Python, Actix-Web, Dinstributed System and PostgreSQL.
+  Backend Developer with 9+ years of experience in *Rust, Python, Django, Actix-Web,
+  Dinstributed System and PostgreSQL*. \n
   Proven track record of optimizing asynchronous systems and leading high-impact projects.
+  
+- Skilled in *Distributed System Design*, *high-performance* development and resilient backend architecture.
+- Proven track record in leading complex *DB migrations, optimizing performance, and contributing to open-source* projects like Askama and Helix.
+- Passionate about solving deep technical challenges and delivering robust, production-grade software.
+// 
 // - Results-driven Senior Software Developer with 9+ years of experience building and scaling microservices and web applications.
 // - Proactive backend engineer with a focus on asynchronous systems, message queues, and infrastructure reliability.
 // - Thrives in distributed, remote-first teams with timezone-flexible, async collaboration and minimal supervision.
@@ -77,10 +83,12 @@
 
 #h(34pt)
 == *Technical Skill's*
-- #text(size: 11pt, weight: 700)[_Languages & Frameworks_]: #text(fill: skills-color)[Rust (Actix-web, Tonic, Serde, Tokio, Tracing, Sqlx, Sea-ORM), Python (Django), JavaScript, Go]
+- #text(size: 11pt, weight: 700)[_Languages & Frameworks_]: #text(fill: skills-color)[\
+  Rust (Actix-web, Tonic, Serde, Tokio, Tracing, Sqlx, Sea-ORM),\
+  Python (Django), JavaScript, Go, Java]
 - #text(size: 11pt, weight: 700)[_Databases & Messaging_]: #text(fill: skills-color)[PostgreSQL, MySQL, Redis, Apache Pulsar]
 - #text(size: 11pt, weight: 700)[_Tools & DevOps_]: #text(fill: skills-color)[Docker, CI/CD (GitHub Actions, Git Hooks), Grafana]
-- #text(size: 11pt, weight: 700)[_Other_]: #text(fill: skills-color)[gRPC, REST APIs, GCP Task Queue]
+- #text(size: 11pt, weight: 700)[_Other_]: #text(fill: skills-color)[gRPC, REST APIs, GCP Task Queue, API, GraphQL, AWS]
 
 
 #h(34pt)
