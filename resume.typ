@@ -42,13 +42,12 @@
 #let heading-color = rgb(44, 62, 80) 
 
 #line(length: 100%)
-
 == *Summary*
   Backend Developer with 9+ years of experience in *Rust, Python, Django, Actix-Web,
-  Dinstributed System and PostgreSQL*. \n
+  Dinstributed System and PostgreSQL*.
   Proven track record of optimizing asynchronous systems and leading high-impact projects.
-  
-- Skilled in *Distributed System Design*, *high-performance* development and resilient backend architecture.
+
+- Skilled in *Distributed System Design*, *high-performance* development and *resilient* backend architecture.
 - Proven track record in leading complex *DB migrations, optimizing performance, and contributing to open-source* projects like Askama and Helix.
 - Passionate about solving deep technical challenges and delivering robust, production-grade software.
 // 
@@ -87,7 +86,7 @@
   Rust (Actix-web, Tonic, Serde, Tokio, Tracing, Sqlx, Sea-ORM),\
   Python (Django), JavaScript, Go, Java]
 - #text(size: 11pt, weight: 700)[_Databases & Messaging_]: #text(fill: skills-color)[PostgreSQL, MySQL, Redis, Apache Pulsar]
-- #text(size: 11pt, weight: 700)[_Tools & DevOps_]: #text(fill: skills-color)[Docker, CI/CD (GitHub Actions, Git Hooks), Grafana]
+- #text(size: 11pt, weight: 700)[_Tools & DevOps_]: #text(fill: skills-color)[Docker, CI/CD (GitHub Actions, Git Hooks), Grafana, Loki]
 - #text(size: 11pt, weight: 700)[_Other_]: #text(fill: skills-color)[gRPC, REST APIs, GCP Task Queue, API, GraphQL, AWS]
 
 
