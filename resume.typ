@@ -93,7 +93,7 @@
 #h(34pt)
 == *Professional Experience*
 + #text(fill: company-color)[Appknox —  Senior Rust Developer (Remote)
-  April 2023]
+  April 2023 - Mar 2024]
   - Designed and launched SBOM, a microservice for automated software bill of materials analysis, detecting security vulnerabilities and legal risks in client application code.
   - Built scalable APIs using Rust, Tokio, and gRPC (Tonic), integrated with PostgreSQL via Sea-ORM and sqlx, reducing vulnerability scan times by 30%.
   - Developed asynchronous Rust parsers for APK, POM, Flutter, and React Native apps to perform security checks on dependency versions and known vulnerabilities.
@@ -120,7 +120,7 @@
   - Awarded Individual Excellence Award (2018-2019) for multi-project impact across Rust, Go, and JavaScript stacks.
 
 + #text(fill: company-color)[Hindustan Times —  Full-Stack Developer
-  Jan 2017 – Oct 2017]
+  Jun 2017 – Nov 2017]
   - Enhanced HTCampus, a college search platform, is scaling to 30,000+ listings and online applications, driving 20% revenue growth via lead generation.
 
 + #text(fill: company-color)[TriHedron —  Full-Stack Developer
